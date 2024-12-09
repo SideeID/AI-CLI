@@ -35,7 +35,7 @@ def process_request(prompt, mode):
 
     try:
         response = requests.post(
-            "https://api.zpi.my.id/v1/ai/gpt-4-turbo", 
+            "https://api.zpi.my.id/v1/ai/claude-3-5-sonnet", 
             json=payload, 
             headers=headers
         )
