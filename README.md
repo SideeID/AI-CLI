@@ -4,8 +4,6 @@
 
 ## ✨ Fitur Utama
 
-## ✨ Fitur Utama
-
 - **Beragam Mode**: 
   - `default`: Mode percakapan standar.
   - `translate`: Terjemahan dua arah antara Bahasa Indonesia dan Bahasa Inggris.
