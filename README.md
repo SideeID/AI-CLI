@@ -4,14 +4,22 @@
 
 ## ✨ Fitur Utama
 
+## ✨ Fitur Utama
+
 - **Beragam Mode**: 
   - `default`: Mode percakapan standar.
   - `translate`: Terjemahan dua arah antara Bahasa Indonesia dan Bahasa Inggris.
   - `summarize`: Ringkasan teks.
-  - `code`: Membantu menghasilkan kode. [development]
-  - `tsundere`: Mode kreatif dengan gaya percakapan unik [development]
-- **Mode Loop**: Aktifkan mode percakapan terus-menerus hingga Anda keluar.
-- **Prompt Multi-Baris**: Masukkan prompt kompleks tanpa batasan.
+  - `code`: Membantu menghasilkan kode.  
+    > ⚠️ **Catatan**: Fitur ini masih dalam tahap pengembangan.
+  - `tsundere`: Mode kreatif dengan gaya percakapan unik.  
+    > ⚠️ **Catatan**: Fitur ini masih dalam proses penyempurnaan untuk mencerminkan karakter tsundere yang lebih kyaaa ><.
+    
+- **Mode Loop**: Aktifkan mode percakapan terus-menerus hingga Anda keluar.  
+  > ⚠️ **Catatan**: Fitur ini masih dalam tahap riset.
+
+- **Prompt Multi-Baris**: Masukkan prompt kompleks tanpa batasan.  
+  > ⚠️ **Catatan**: Fitur ini masih dalam pengembangan untuk mendukung input yang lebih fleksibel.
 
 ## 🛠️ Instalasi
 
