@@ -8,7 +8,8 @@
   - `default`: Mode percakapan standar.
   - `translate`: Terjemahan dua arah antara Bahasa Indonesia dan Bahasa Inggris.
   - `summarize`: Ringkasan teks.
-  - `code`: Membantu menghasilkan kode.
+  - `code`: Membantu menghasilkan kode. [development]
+  - `tsundere`: Mode kreatif dengan gaya percakapan unik [development]
 - **Mode Loop**: Aktifkan mode percakapan terus-menerus hingga Anda keluar.
 - **Prompt Multi-Baris**: Masukkan prompt kompleks tanpa batasan.
 
