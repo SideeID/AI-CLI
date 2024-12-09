@@ -2,6 +2,8 @@
 
 **AI-CLI** adalah Command Line Interface (CLI) yang memungkinkan Anda berinteraksi dengan model Language Learning Model (LLM) secara langsung dari terminal. Dengan berbagai mode kerja dan fitur yang fleksibel, AI-CLI dirancang untuk mempermudah tugas seperti terjemahan, ringkasan, pembuatan kode, dan lainnya.
 
+![Screenshot AI-CLI](./ai-cli.jpg)
+
 ## ✨ Fitur Utama
 
 - **Beragam Mode**: 
